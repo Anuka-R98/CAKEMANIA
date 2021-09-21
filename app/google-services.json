@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985128364222",
+    "project_id": "cakemania-78dc0",
+    "storage_bucket": "cakemania-78dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985128364222:android:4b6811f0b5a13e4bdad6ef",
+        "android_client_info": {
+          "package_name": "my.cakemania.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985128364222-idbsld2iavrqgufjk3q805hjdoaks50t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9j6pOUjPGYRU50nk5BtVnOyFJikcZC2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985128364222-idbsld2iavrqgufjk3q805hjdoaks50t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
