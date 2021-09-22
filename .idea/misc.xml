@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.202734375" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1265625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.202734375" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/drawable/ic_orders_24.xml" value="0.202734375" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/drawable/ic_post_dish_menu_24.xml" value="0.202734375" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/activity_chef_food_panel_bottom_navigation.xml" value="0.12" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/activity_chef_registration.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/activity_cheflogin.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/activity_choose_one.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/activity_registration.xml" value="0.125" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/fragment_chef_home.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/fragment_chef_orders.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/fragment_chef_pendingorders.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/layout/fragment_chef_profile.xml" value="0.190625" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/menu/chef_bottom_navigation.xml" value="0.16799999999999998" />
+        <entry key="..\:/MAD_Project_2021/app/src/main/res/menu/logout.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
