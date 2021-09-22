@@ -40,7 +40,7 @@ public class ChooseOne extends AppCompatActivity {
                     finish();
                 }
                 //chef register
-                if(type.equals("Singup")){
+                if(type.equals("SignUp")){
                     Intent registerChef = new Intent(ChooseOne.this, ChefRegister.class);
                     startActivity(registerChef);
                     finish();
@@ -59,7 +59,7 @@ public class ChooseOne extends AppCompatActivity {
                     finish();
                 }
                 //Cus register
-                if(type.equals("Singup")){
+                if(type.equals("SignUp")){
                     Intent registerCus = new Intent(ChooseOne.this, CusRegister.class);
                     startActivity(registerCus);
                     finish();
@@ -78,7 +78,7 @@ public class ChooseOne extends AppCompatActivity {
                     finish();
                 }
                 //DP register
-                if(type.equals("Singup")){
+                if(type.equals("SignUp")){
                     Intent registerDP = new Intent(ChooseOne.this, DPRegister.class);
                     startActivity(registerDP);
                     finish();

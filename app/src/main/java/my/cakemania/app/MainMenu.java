@@ -31,7 +31,7 @@ public class MainMenu extends AppCompatActivity {
             public void onClick(View view) {
 
                 Intent signmail = new Intent(MainMenu.this, ChooseOne.class);
-                signmail.putExtra("Home", "Email");
+                signmail.putExtra("Home", "Emails");
                 startActivity(signmail);
                 finish();
             }
@@ -44,7 +44,7 @@ public class MainMenu extends AppCompatActivity {
             public void onClick(View view) {
 
                 Intent signup = new Intent(MainMenu.this, ChooseOne.class);
-                signup.putExtra("Home", "Signup");
+                signup.putExtra("Home", "SignUp");
                 startActivity(signup);
                 finish();
             }

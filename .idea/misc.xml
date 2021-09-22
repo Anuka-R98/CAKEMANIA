@@ -10,15 +10,18 @@
         <entry key="app/src/main/res/drawable/btnred.xml" value="0.1259259259259259" />
         <entry key="app/src/main/res/drawable/button_shape.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/transparent_shape.xml" value="0.2640625" />
-        <entry key="app/src/main/res/layout/activity_chef_register.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_chef_login.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/activity_chef_loginss.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/activity_chef_register.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_chef_registeration.xml" value="0.2953125" />
         <entry key="app/src/main/res/layout/activity_choose_one.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_cus_login.xml" value="0.24791666666666667" />
-        <entry key="app/src/main/res/layout/activity_cus_register.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_cus_register.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_dplogin.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/layout/activity_dpregister.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/layout/activity_login_main_menu.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2605174033729608" />
-        <entry key="app/src/main/res/layout/activity_main_menu.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_sample_test.xml" value="0.335" />
       </map>
     </option>
